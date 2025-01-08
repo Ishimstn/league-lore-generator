@@ -14,3 +14,7 @@ Replace `your-api-key-here` with your actual API key.
 ## Images of the Lore Generator App
 
  ![Riot Lore Pic 2](https://github.com/user-attachments/assets/5806a1ca-5677-4cf4-9729-870c50be7d98)
+
+
+https://github.com/user-attachments/assets/1201cf36-5c0d-4402-ae77-22313814fe26
+
