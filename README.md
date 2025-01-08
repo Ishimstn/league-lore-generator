@@ -18,3 +18,5 @@ Replace `your-api-key-here` with your actual API key.
 
 https://github.com/user-attachments/assets/1201cf36-5c0d-4402-ae77-22313814fe26
 
+## Disclaimer 
+This is an Educational Project I created, solely for the purpose of using public information from Riot Games website to create AI-Generated narratives. This project will not be monetized and is intended for learning purposes as a portfolio piece. I deeply respect Riot's commitment to storytelling and innovation.
