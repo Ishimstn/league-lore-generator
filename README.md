@@ -3,7 +3,7 @@ An AI-Powered (GPT 3.5 turbo) lore generator. Creates immersive stories in the w
 
 ## Setting up Environment Variables 
 
-I personally did not upload my .env file onto github for security reaons and to not breach OpenAI policy 
+I personally did not upload my .env file onto github for security reasons and to not breach OpenAI policy 
 
 Create a `.env` file in the root directory of the project with the following content:
 
