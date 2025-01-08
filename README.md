@@ -1,6 +1,9 @@
 # league-lore-generator
 An AI-Powered (GPT 3.5 turbo) lore generator. Creates immersive stories in the world of league of legends
 
+## Deployment Link to App (Streamlit Cloud)
+https://league-lore-generator.streamlit.app/
+
 ## Setting up Environment Variables 
 
 I personally did not upload my .env file onto github for security reasons and to not breach OpenAI policy 
